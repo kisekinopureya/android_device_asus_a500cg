@@ -9,7 +9,7 @@ system/bin/vold
 system/bin/droidboot
 system/bin/msvdx_bin
 system/bin/topaz_bin
-system/bin/tkbd
+#system/bin/tkbd
 system/bin/cpdd
 system/bin/miu-app
 system/bin/dpstmgr
@@ -74,7 +74,7 @@ system/framework/com.intel.internal.telephony.OemTelephony.jar
 system/framework/com.intel.multidisplay.jar
 system/framework/com.intel.security.lib.sepdrmjni.jar
 system/framework/com.intel.security.service.sepmanager.jar
-system/framework/com.intel.tinkerbell.jar
+#system/framework/com.intel.tinkerbell.jar
 
 # system/lib
 # Intel dalvik
@@ -245,16 +245,16 @@ system/lib/libxditk_DIT_CloverTrailPlus.so
 system/lib/libxditk_isp.bin
 system/lib/ditCL.bin
 system/lib/DIT_AT_FRONT_PRE.cfg
-system/lib/DIT_AT_BACK_NORMAL_219.cfg
-system/lib/DIT_AT_BACK_HL_219.cfg
-system/lib/DIT_AT_BACK_PREVIEW_219.cfg
+system/lib/DIT_AT_BACK_NORMAL_ID3.cfg
+system/lib/DIT_AT_BACK_HL_ID3.cfg
+system/lib/DIT_AT_BACK_PREVIEW_ID3.cfg
 system/lib/DIT_AT_BACK_VIDEO.cfg
-system/lib/DIT_AT_BACK_VIDEO_219.cfg
+system/lib/DIT_AT_BACK_VIDEO_ID3.cfg
 system/lib/DIT_AT_FRONT_NORMAL.cfg
 system/lib/DIT_AT_BACK_HL.cfg
 system/lib/DIT_AT_BACK_PREVIEW.cfg
 system/lib/DIT_AT_FRONT_VIDEO.cfg
-system/lib/DIT_AT_BACK_NORMAL_219.cfg.fac
+system/lib/DIT_AT_BACK_NORMAL_ID3.cfg.fac
 system/lib/DIT_AT_BACK_NORMAL.cfg
 system/etc/camera_profiles.xml
 # Medfield Penwell Image Signal Processor
